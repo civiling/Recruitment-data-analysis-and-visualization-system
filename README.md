@@ -1,11 +1,11 @@
 # WorkAggregation
-Internet industry recruitment information aggregation system based on data technology. This system uses Python as the core and relies on web display. All functions can be completed on the web page. Crawlers, analysis, visualization, and interaction are independent modules and can be interoperated. Specifically implemented based on python's rich libraries.
-Crawlers: Requests
-Analysis: lxml, beautifulsoup4
-Data analysis: numpy, pandas
-Visualization: pyecharts
-Backend: Flask
-Storage: csv, MySQL
+Internet industry recruitment information aggregation system based on data technology. This system uses Python as the core and relies on web display. All functions can be completed on the web page. Crawlers, analysis, visualization, and interaction are independent modules and can be interoperated. Specifically implemented based on python's rich libraries.  
+Crawlers: Requests  
+Analysis: lxml, beautifulsoup4  
+Data analysis: numpy, pandas  
+Visualization: pyecharts  
+Backend: Flask  
+Storage: csv, MySQL  
 In order to expand functions, I wrote timers and WeChat push, and in order to adapt to teamwork, I wrote function registers and parameter iterators. The crawler data comes from 51job.com, Qilu Talent Network, Liepin.com, Lagou.com and other websites, and the required basic data is all available.
 
 ## ToDo 
